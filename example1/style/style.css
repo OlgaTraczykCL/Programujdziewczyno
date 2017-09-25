@@ -1,0 +1,30 @@
+.czerwony {
+    color: #801515;
+}
+.niebieski {
+    color: #226666;
+}
+img {
+    border: #AA6C39 5px solid;
+    margin: 50px;
+    margin-top: 100px;
+}
+
+ul li:nth-child(6n+1){
+   color: violet;
+}
+ul li:nth-child(6n+2){
+   color: orange;
+}
+ul li:nth-child(6n+3){
+   color: green;
+}
+ul li:nth-child(6n+4){
+   color: blue;
+}
+ul li:nth-child(6n+5){
+   color: indigo;
+}
+ul li:nth-child(6n){
+   color: red;
+}
